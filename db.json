@@ -1,0 +1,116 @@
+[
+  {
+    "ownerId": "",
+    "ownerName": "",
+    "ownerEmail": "",
+    "ownerPhoneN": "",
+    "branches": [
+      {
+        "brancheId": "",
+        "brancheEmail": "",
+        "branchePhone1": "",
+        "branchePhone2": "",
+        "brancheTitle": "",
+        "brancheAdress": "",
+        "geolocation": {
+          "alt": "",
+          "lat": ""
+        }
+      }
+    ],
+    "menu": [
+      {
+        "menuId": "",
+        "menuTitle": "",
+        "isActive": "",
+        "activeDays": {
+          "isActive7ays": "",
+          "isActive24h": "",
+          "sunday": {
+            "isActive24h": "",
+            "timesActive": [
+              {
+                "from": "",
+                "to": ""
+              }
+            ]
+          },
+          "monday": {
+            "isActive24h": "",
+            "timesActive": [
+              {
+                "from": "",
+                "to": ""
+              }
+            ]
+          },
+          "tuesday": {
+            "isActive24h": "",
+            "timesActive": [
+              {
+                "from": "",
+                "to": ""
+              }
+            ]
+          },
+          "wensday": {
+            "isActive24h": "",
+            "timesActive": [
+              {
+                "from": "",
+                "to": ""
+              }
+            ]
+          },
+          "thursday": {
+            "isActive24h": "",
+            "timesActive": [
+              {
+                "from": "",
+                "to": ""
+              }
+            ]
+          },
+          "friday": {
+            "isActive24h": "",
+            "timesActive": [
+              {
+                "from": "",
+                "to": ""
+              }
+            ]
+          },
+          "saterday": {
+            "isActive24h": "",
+            "timesActive": [
+              {
+                "from": "",
+                "to": ""
+              }
+            ]
+          }
+        },
+        "category": [
+          {
+            "categoryId": "",
+            "categoryTitle": "",
+            "isAvailable": "",
+            "isActive": "",
+            "items": [
+              {
+                "itemId": "",
+                "itemTitle": "",
+                "itemSubtitle": "",
+                "itemDescription": "",
+                "itemImg": "",
+                "itemPrice": "",
+                "isAvailable": "",
+                "isActive": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
